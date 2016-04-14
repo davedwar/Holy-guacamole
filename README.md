@@ -1,2 +1,4 @@
 # Holy-guacamole
-Learning repo
+Learning repository. 
+
+Changes made for read me-branch. 
